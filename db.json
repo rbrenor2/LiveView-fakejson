@@ -1,0 +1,746 @@
+{
+  "total_empresa": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "varejo": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "farma": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "maxxi": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "sams": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "p_vitoria": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "report_varejo": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "report_farma": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "report_maxxi": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "report_sams": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "campanhas": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  },
+  "campanhas_sams": {
+    "lojas": 396,
+    "venda_hoje": 4432882,
+    "venda_ano_passado": 5322725,
+    "comp": -16,
+    "venda_planejada": 45527630,
+    "venda_atingida": 9.74,
+    "venda_projetada": 37943945,
+    "atingimento_plano_projetado": 83.34,
+    "produtos_mais_vendidos": [
+      {
+        "produto": "OLEO SOJA PRIMOR",
+        "quantidade": 8570,
+        "valor": 24847.94
+      },
+      {
+        "produto": "CEBOLA NACIONAL",
+        "quantidade": 5099,
+        "valor": 13816.99
+      },
+      {
+        "produto": "OLEO SOJA SOYA",
+        "quantidade": 4400,
+        "valor": 13212.94
+      },
+      {
+        "produto": "CERVEJA ORIGINAL",
+        "quantidade": 3760,
+        "valor": 19567.94
+      },
+      {
+        "produto": "CERVEJA SKOL",
+        "quantidade": 3538,
+        "valor": 24847.94
+      },
+      {
+        "produto": "BP OVO BRANCO DUZ",
+        "quantidade": 2905.0,
+        "valor": 7853.34
+      },
+      {
+        "produto": "CERVEJA ITAIPAVA",
+        "quantidade": 2323,
+        "valor": 2337.65
+      },
+      {
+        "produto": "GUARANÁ ANTARCTICA",
+        "quantidade": 2137,
+        "valor": 2212.58
+      },
+      {
+        "produto": "LEITE UHT IN LATVIDA",
+        "quantidade": 2074,
+        "valor": 4507.35
+      },
+      {
+        "produto": "MAC ESPAG VITARELLA",
+        "quantidade": 1949,
+        "valor": 3841.91
+      }
+    ]
+  }
+}
